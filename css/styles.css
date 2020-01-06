@@ -109,9 +109,9 @@ hr {
 
 
 
-.project-column {
+/* .project-column {
   padding: 3% 2%;
-}
+} */
 
 .profile {
   padding-top: 50px;
@@ -133,8 +133,7 @@ hr {
 }
 
 .projects {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding: 50px 20px 50px 20px;
   background-color: black;
   
 }
