@@ -183,6 +183,8 @@ a.card-link:hover {
   margin-bottom: 10px;
   text-transform: uppercase;
   letter-spacing: 3px;
+  padding-left:10px;
+  padding-right: 10px;
 }
 
 .image-box:hover .image-box-caption {
